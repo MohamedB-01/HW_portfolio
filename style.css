@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 a:hover {
-background-color: gray;
+color: burlywood;
 }
 header {
     padding: 0;
@@ -70,6 +70,7 @@ article {
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
+    border-radius: 25px;
 
 }
 
@@ -97,6 +98,7 @@ flex-wrap: wrap;
     background-size: cover;
     background-position: center; 
     background-repeat: no-repeat;
+    border-radius: 25px;
 }
 #p2 {
     background-image: url(./assets/imgs/P2.jpg);
