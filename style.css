@@ -54,10 +54,9 @@ article {
  h1 {
     font-size: 38px;
 }
-.projects {
+.projects:hover {
   
-   
-   box-sizing: border-box; 
+ opacity: 0.5;   
 
 }
 
@@ -71,7 +70,6 @@ article {
     background-position: center; 
     background-repeat: no-repeat;
     border-radius: 25px;
-
 }
 
 h2 {
@@ -80,9 +78,7 @@ h2 {
     height: 30px;
 }
 
-.project:hover {
-opacity: 0.5;
-}
+
 
 .work2 {
 display: flex;
